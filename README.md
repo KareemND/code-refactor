@@ -14,7 +14,8 @@ N/A
 
 ## Usage
 Screenshot of webpage:
-assets\images\webpage-screenshot.jpeg
+![webpage-screenshot](https://user-images.githubusercontent.com/119475435/208018502-e0be1243-9d3c-41d5-90b6-64c459a6dc8a.jpeg)
+
 
 ## License
 MIT License
