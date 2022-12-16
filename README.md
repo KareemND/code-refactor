@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 Screenshot of webpage:
-"C:\Users\Kareem\projects\urban-octo-telegram\assets\images\webpage-screenshot.jpeg"
+assets\images\webpage-screenshot.jpeg
 
 ## License
 MIT License
